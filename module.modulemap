@@ -1,0 +1,4 @@
+module Cpcl_segmentation [system] {
+  link "pcl_segmentation"
+  export *
+}
