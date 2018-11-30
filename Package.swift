@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Cpcl_segmentation",
-    pkgConfig: "pcl_segmentation-1.8",
+    pkgConfig: "pcl_segmentation-1.9",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
